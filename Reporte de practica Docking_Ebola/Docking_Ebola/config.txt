@@ -1,0 +1,13 @@
+receptor = 9JQK_protein_clean.pdbqt
+ligand = 9JQK_ligand_native.pdbqt
+
+center_x = -39.320
+center_y = -19.325
+center_z = 13.276
+
+size_x = 22.0
+size_y = 22.0
+size_z = 22.0
+
+exhaustiveness = 32
+num_modes = 10
